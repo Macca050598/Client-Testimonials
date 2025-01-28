@@ -23,7 +23,7 @@ Welcome to my **Client Testimonials** repository! Here, you'll find feedback fro
 
 ## About This Repository
 
-This repository serves as a collection of client testimonials from my freelance and professional work. Each testimonial includes:
+This repository serves as a collection of client testimonials from my freelance and personal business work. Each testimonial includes:
 - The client's feedback.
 - A brief description of the project (if applicable).
 - A link to the original review (if available).
